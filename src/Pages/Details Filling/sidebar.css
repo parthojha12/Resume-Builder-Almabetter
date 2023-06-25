@@ -1,0 +1,8 @@
+.side ul li{
+    margin-bottom: 4px;
+border:1px solid black;
+text-align:center;
+padding: 5px 0px 5px 0px;
+border-radius: 8px;
+font-weight: bold;
+width: 100%;}

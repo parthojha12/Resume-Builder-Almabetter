@@ -21,6 +21,7 @@ Clone this repository in your local machine and install the needed dependencies
 - jspdf
 - React-router-dom
 - Material UI ans Icons
+- Tailwing-css
 
 ## Components and Pages of Application:
 

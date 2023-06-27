@@ -26,7 +26,7 @@ Clone this repository in your local machine and install the needed dependencies
 
 ```
 └── public/
-│	├── index.httml
+│	├── index.html
 │    	├──images/
 │		├── template1.png
 │		├── template2.png

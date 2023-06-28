@@ -27,7 +27,7 @@ Type **npm start** in terminal to start the application after installing the dep
 ## Application Folder Structure
 
 ```
-└── public/
+├── public/
 │	├── index.html
 │    	├──images/
 │		├── template1.png

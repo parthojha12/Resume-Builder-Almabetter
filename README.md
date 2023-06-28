@@ -12,7 +12,7 @@ Stand out from the crowd and make a lasting impression with Resume Builder, the 
 
 Clone this repository in your local machine and install the needed dependencies
 
-Type **npm start** in terminal to start the application after installing the dependencies using **npm install <package_nmae>**
+Type **npm start** in terminal to start the application after installing the dependencies using **npm install <package_name>**
 
 ## Technologies and Libraries used
 

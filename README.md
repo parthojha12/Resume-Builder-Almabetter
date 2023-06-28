@@ -99,7 +99,7 @@ Type **npm start** in terminal to start the application after installing the dep
 │		├──Resume4.jsx
 ├──index.js   
 ├──package-lock.json
-└──package.json
+├──package.json
 └──tailwind.config.js
 ```
 

@@ -125,6 +125,11 @@ Type **npm start** in terminal to start the application after installing the dep
 
 ![About Us](https://github.com/nikhil-jangde/Resume-Builder-Almabetter/assets/112394456/ca33b437-4bda-49f7-b899-ca5a3722f8e4)
 
+## Links for the project
+
+Deployment Link : https://resume-builder-almabetter-six.vercel.app/
+Youtube Link : https://youtu.be/-dqTi9rST7s
+
 ## Team Memebers
 
 - Parth Ojha

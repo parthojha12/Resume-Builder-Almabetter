@@ -12,6 +12,8 @@ Stand out from the crowd and make a lasting impression with Resume Builder, the 
 
 Clone this repository in your local machine and install the needed dependencies
 
+**npm start** to start the application
+
 ## Technologies and Libraries used
 
 - React

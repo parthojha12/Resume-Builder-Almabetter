@@ -1,6 +1,6 @@
-# AlmaBetter Frontend Capstone Project
+# Fusiontecz Solution
 
-## Resume-Builder
+## Weather Forecast App
 
 Welcome to the Weather Forecast Application, a React-based web application that provides real-time weather forecasts for multiple cities. This application leverages the OpenWeather API to fetch accurate and up-to-date weather data. Users can easily search for cities, add them to their list, and view detailed weather forecasts, including hourly updates.
 

@@ -1,9 +1,8 @@
-# Fusiontecz Solution
+# Fusiontecz Solution Assignment
 
 ## Weather Forecast App
 
 Welcome to the Weather Forecast Application, a React-based web application that provides real-time weather forecasts for multiple cities. This application leverages the OpenWeather API to fetch accurate and up-to-date weather data. Users can easily search for cities, add them to their list, and view detailed weather forecasts, including hourly updates.
-
 
 ## Features
 
@@ -15,94 +14,31 @@ Welcome to the Weather Forecast Application, a React-based web application that 
 
 ## Installation
 
-Clone this repository in your local machine and install the needed dependencies
+Clone this repository in your local machine and install the needed dependencies.
 
-Type **npm start** in terminal to start the application after installing the dependencies using **npm install <package_name>**
+For more understanding, so to OpenWeatherAPI for documentations. 
 
-## Technologies and Libraries used
-
-- React
-- React-router-dom
-- React-hook-form
-- Redux
-- jspdf
-- Material UI and Icons
-- Tailwing-css
+Type **npm start** in terminal to start the application after installing the dependencies using **npm install**
 
 ## Application Folder Structure
 
 ```
 ├── public/
 │	├── index.html
-│    	├──images/
-│		├── template1.png
-│		├── template2.png
-│		├── template3.png
-│		├── template4.png	
+│    	├──images/	
 ├──src/
 │	├──App.js
 │	├──App.css
 │	├──App.test.js
 │	├──index.css
 │	├──index.js
-│	├──setupTests.js
 │	├──Components/
-│		├──images/
-│			├──LOGO.png
-│			├──Right.png
-│			├──aboutus.png
-│			├──download.png
-│			├──nodata.png
-│   	├── Education.jsx
-│		├──GettingStarted.jsx
-│		├──Keyskills.jsx
-│		├──Myresume.jsx
-│		├──PersonalInformation.jsx
-│		├──Workexperience.jsx
-│	├──Data/
-│		├──data.js
-│	├──Pages/
-│		├──About US/
-│			├──Aboutus.jsx
-│		├──Details Filing/
-│			├──Detailfilling.jsx
-│			├──sidebar.css 
-│		├──Home/
-│			├──TempleteCard.jsx
-│			├──Templetes.jsx
-│		├──Preview/
-│			├──Preview,jsx
-│	├──Redux/
-│		├──actions/
-│			├──actions.js
-│			├──saveresume.js
-│			├──setcontact.js
-│			├──seteducation.js
-│			├──setexperience.js
-│			├──setkeyskills.js
-│			├──settemplate.js
-│		├──constants/
-│			├──typeCodes.js
-│		├──reducers/
-│			├──initialState.js
-│			├──rootReducer.js
-│			├──saveresume.js
-│			├──setcontact.js
-│			├──seteducation.js
-│			├──setexperience.js
-│			├──setkeyskills.js
-│			├──settemplate.js
-│		├──store
-│			├──store.js
-│	├──Templetes/
-│		├──Resume1.css
-│		├──Resume1.jsx
-│		├──Resume2.jsx
-│		├──Resume3.css
-│		├──Resume3.jsx
-│		├──Resume4.css
-│		├──Resume4.jsx
-├──index.js   
+│		├──CityInputComponent.js
+│		├──CityInputComponent.css
+│		├──HourlyForecast.js
+│		├──HourlyForecast.css
+│		├──WeatherDetailsComponent.js
+│		├──WeatherDetailsComponent.css  
 ├──package-lock.json
 ├──package.json
 └──tailwind.config.js

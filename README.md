@@ -129,7 +129,7 @@ Type **npm start** in terminal to start the application after installing the dep
 
 Deployment Link : https://resume-builder-almabetter-six.vercel.app/
 
-Youtube Link : https://youtu.be/uTCAhgiRXWU
+Youtube Link : [https://youtu.be/uTCAhgiRXWU](https://youtu.be/-dqTi9rST7s)
 
 ## Team Memebers
 

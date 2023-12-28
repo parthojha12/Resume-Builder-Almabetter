@@ -2,11 +2,16 @@
 
 ## Resume-Builder
 
-Introducing Resume Builder, the ultimate React application that empowers you to craft eye-catching resumes like never before. You can easily customise your resume with Resume Builder's user-friendly interface to highlight your unique skills and professional experience.
+Welcome to the Weather Forecast Application, a React-based web application that provides real-time weather forecasts for multiple cities. This application leverages the OpenWeather API to fetch accurate and up-to-date weather data. Users can easily search for cities, add them to their list, and view detailed weather forecasts, including hourly updates.
 
-Stand out from the crowd and make a lasting impression with Resume Builder, the perfect tool to land your dream job. Start building your future today!
 
-**Just select template - Fill in the details and voila! Your resume is ready to preview and download.**
+## Features
+
+- **City Search**: Users can search for cities worldwide and add them to their personalized weather forecast list.
+- **Multiple Cities**: The application supports tracking the weather for multiple cities simultaneously.
+- **Current Weather**: Get the latest weather conditions for each city, including temperature, humidity, wind speed, and more.
+- **Hourly Forecast**: View detailed hourly weather forecasts to plan your activities throughout the day.
+- **Responsive Design**: The application is designed to work seamlessly across various devices, providing a consistent user experience.
 
 ## Installation
 
